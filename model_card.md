@@ -1,7 +1,7 @@
----
+<!-- 
 # For reference on model card metadata, see the spec: https://github.com/huggingface/hub-docs/blob/main/modelcard.md?plain=1
 # Doc / guide: https://huggingface.co/docs/hub/model-cards
----
+-->
 
 # Model Card for Analysis early signaling insights
 
@@ -16,20 +16,20 @@ This model provides insights into the effectiveness of early signaling in debt s
 <!-- Provide a longer summary of what this model is. -->
 
 - **Developed by:** Johan van Soest
-- **Funded by [optional]:** Ministry of the Interior and Kingdom Relations
-- **Shared by [optional]:** Johan van Soest
+- **Funded by:** Ministry of the Interior and Kingdom Relations
+- **Shared by:** Johan van Soest
 - **Model type:** Linear regression
 - **Language(s) (NLP):** Not applicable
 - **License:** [Apache 2](LICENSE)
-- **Finetuned from model [optional]:** Not applicable
+- **Finetuned from model:** Not applicable
 
 ### Model Sources [optional]
 
 <!-- Provide the basic links for the model. -->
 
 - **Repository:** [this repository](../)
-- **Paper [optional]:** Not yet applicable
-- **Demo [optional]:** Not yet applicable
+- **Paper:** Not yet applicable
+- **Demo:** Not yet applicable
 
 ## Uses
 

@@ -65,11 +65,11 @@ Since the model is trained to *help* citizens, the model cannot be used for cont
 
 When using the learned insights, and applying them to set different filters at municipalities, carefull monitoring needs to be considered to determine whether specific sub-groups are not reached anymore. Furthermore, the implementation of data-driven insights leads to bias and effects in outcome measurement. Post-implementation monitoring is warranted to evaluate whether the insights lead to the intended outcome (better and more effective early signaling of debt).
 
-## How to Get Started with the Model
-
-
+<!-- ## How to Get Started with the Model -->
 
 ## Training Details
+
+Legal agreements to setup the consortium and infrastructure to perform the analysis are available in the [legal templates](./legal_templates/) folder.
 
 ### Training Data
 

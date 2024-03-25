@@ -29,7 +29,9 @@ This model provides insights into the effectiveness of early signaling in debt s
 
 - **Repository:** [this repository](../)
 - **Paper:** Not yet applicable
-- **Demo:** [http://server-ui.wp3.johanvansoest.nl/](http://server-ui.wp3.johanvansoest.nl/)
+- **Demo:**
+    - Video: [https://youtu.be/RwRSZNK-TSE](https://youtu.be/RwRSZNK-TSE)
+    - Live demo infrastructure: [http://server-ui.wp3.johanvansoest.nl/](http://server-ui.wp3.johanvansoest.nl/)
 
 ## Uses
 

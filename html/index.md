@@ -1,4 +1,4 @@
-# Deelname aan Federated Learning Project voor Vroegsignalering van Schulden
+# Deelname aan analyse effectiviteit van Vroegsignalering Schulden
 
 Gemeenten spelen een cruciale rol bij het vroegtijdig signaleren en aanpakken van schulden onder inwoners. Nieuwe technologieën, zoals Federated Learning, bieden innovatieve manieren om de effectiviteit van deze vroegsignalering te verbeteren zonder de privacy van burgers in gevaar te brengen. Wij nodigen uw gemeente uit om deel te nemen aan een project dat gebruikmaakt van deze technologie.
 

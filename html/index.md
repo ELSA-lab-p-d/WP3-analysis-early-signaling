@@ -21,7 +21,7 @@ In dit project maakt uw gemeente gebruik van de diensten van een gespecialiseerd
 ## Benodigde overeenkomsten
 In onderstaand figuur is uitgelegd hoe de relatie tussen de dienstverlener (XXLLNC), de gemeente en Universiteit Maastricht (UM) is vormgegeven vanuit het oogpunt van benodigde overenkomsten.
 
-![Relatie van deelnemende partijen volgens benodigde overeenkomsten](overeenkomsten_overzicht.png)
+<img src="overeenkomsten_overzicht.png" width="100%"/>
 
 Op basis van dit figuur zijn dan ook de volgende overeenkomsten nodig tussen uw gemeente en Universiteit Maastricht:
 

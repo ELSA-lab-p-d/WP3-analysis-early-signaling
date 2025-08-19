@@ -19,7 +19,7 @@ Onderstaand staan nog verdere technische en juridische details uitgelegd.
 ## Wat wordt er gevraagd van de gemeente?
 
 De gemeente *mag* actief deelnemen in het onderzoek, maar alleen als daar behoeft aan is. Aangezien de data bij een externe dienstverlener staat, heeft Universiteit Maastricht alleen toestemming nodig om de data beschikbaar bij de externe dienstverlener te analyseren. Er wordt **niet** gevraagd om extra data te verzamelen door de gemeente. Het onderzoek wordt uitgevoerd met de informatie die regulier wordt verzameld in het werkproces. Dit betekent dan ook dat er geen extra werkzaamheden nodig zijn vanuit de gemeente, met uitzondering van de toestemming (in de vorm van een verwerkersovereenkomst).
-Aangezien dit project wordt gefinancierd door het Ministerie van Binnenlandse Zaken wordt er **geen financiele bijdrage gevraagd** van de deelenmende gemeenten.
+Aangezien dit project wordt gefinancierd door het Ministerie van Binnenlandse Zaken wordt er **geen financiële bijdrage gevraagd** van de deelenmende gemeenten.
 
 ### Wetenschappelijke publicatie
 Resultaten van het onderzoek worden altijd met de gemeente gedeeld, waarbij de andere gemeenten niet bij naam worden genoemd. Bij wetenschappelijke publicatie zullen de deelnemende gemeenten niet bij naam worden genoemd. Mocht het interessant zijn voor de gemeente kan iemand als co-auteur op deze wetenschappelijke publicatie meegenomen worden.

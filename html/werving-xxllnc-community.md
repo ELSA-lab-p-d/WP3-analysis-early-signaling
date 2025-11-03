@@ -12,8 +12,6 @@ Bestaand onderzoek, zoals de monitor Vroegsignalering Schulden van Divosa, focus
 
 **Wat levert het op?** Uw gemeente krijgt gratis inzichten in de effectiviteit van uw huidige vroegsignalering, waarmee u uw dienstverlening aan inwoners kunt verbeteren. Resultaten worden altijd met u gedeeld, waarbij andere gemeenten niet bij naam worden genoemd.
 
-**Waarom samen met XXLLNC?** XXLLNC kent uw werkprocessen en systemen en zorgt ervoor dat het onderzoek technisch soepel verloopt. Zij fungeren als verwerker, waardoor de privacy van uw inwoners optimaal gewaarborgd blijft binnen hun infrastructuur.
-
 **Interesse of meer weten?** Alle technische en juridische details vindt u op: **[https://maastrichtuniversity.github.io/WP3-analysis-early-signaling](https://maastrichtuniversity.github.io/WP3-analysis-early-signaling)**
 
 Indien uw gemeente wil deelnemen, dan kunt u [dit contactformulier](https://wkf.ms/3MLxWOP) invullen waarna we contact met u opnemen om de mogelijkheden te bespreken.

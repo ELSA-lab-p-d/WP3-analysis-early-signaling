@@ -1,10 +1,10 @@
 # Deelname aan analyse effectiviteit van Vroegsignalering Schulden
 
-Gemeenten spelen een cruciale rol bij het vroegtijdig signaleren en aanpakken van schulden onder inwoners. Nieuwe technologieën, zoals Federated Learning, bieden innovatieve manieren om de effectiviteit van deze vroegsignalering te onderzoeken zonder de privacy van burgers in gevaar te brengen. Wij nodigen uw gemeente uit om deel te nemen aan een project dat gebruikmaakt van deze technologie.
+Gemeenten spelen een cruciale rol bij het vroegtijdig signaleren en aanpakken van schulden onder inwoners. Universiteit Maastricht werkt dan ook aan een onderzoek naar de effectiviteit van vroegsignalering, samen met [XXLLNC Sociaal](https://xxllnc.nl/teams/sociaal) (RIS/Vroeg Eropaf) en [Divosa](https://www.divosa.nl/), gefinancierd door het [Ministerie van Binnenlandse Zaken en Koninkrijksrelaties](https://www.rijksoverheid.nl/ministeries/ministerie-van-binnenlandse-zaken-en-koninkrijksrelaties). Hierbij worden nieuwe technologieën, zoals Federated Learning, toegepast om de effectiviteit van vroegsignalering te onderzoeken en de privacy van burgers beter gewaarborgd. Wij nodigen uw gemeente uit om deel te nemen aan dit project.
 
 ## Wat willen we onderzoeken in dit project?
 
-Tijdens dit project willen we het lange-termijn effect van vroegsignalering onderzoeken. Bestaand onderzoek focussed zich op het aantal meldingen, dossiers en het accepteren van hulp. In dit onderzoek willen we inzichtelijk krijgen of het accepteren van hulp ook leidt tot minder signalen in de toekomst.
+Tijdens dit project willen we het lange-termijn effect van vroegsignalering onderzoeken. Bestaand onderzoek focussed zich op het aantal meldingen, dossiers en het accepteren van hulp ([Divosa monitor vroegsignalering schulden](https://www.divosa.nl/projecten/monitor-vroegsignalering-schulden)). In dit onderzoek willen we inzichtelijk krijgen of het accepteren van hulp ook leidt tot minder signalen in de toekomst.
 
 De twee specifieke onderzoeksvragen waar we een antwoord op willen geven zijn:
 
@@ -16,13 +16,20 @@ De informatie voor deze onderzoeksvragen bevindt zich bij uw software dienstverl
 
 Onderstaand staan nog verdere technische en juridische details uitgelegd.
 
+## Hoe gaan we dit onderzoeken?
+
+Om bovenstaande onderzoeksvragen te beantwoorden wordt er een analyse geschreven door onderzoekers van Universiteit Maastricht. Deze analyse wordt naar XXLLNC verstuurd, waar de analyse wordt uitgevoerd binnen hun beveiligde infrastructuur. Onderzoekers zien dan ook geen persoonlijke en individuele informatie, alleen de resultaten van de geschreven analyse worden teruggestuurd naar de onderzoekers. Op deze manier blijft de informatie bij XXLLNC staan, hebben de onderzoekers **geen inzage in persoonsgegevens**, maar is het wel mogelijk om bovenstaande onderzoeksvragen te beantwoorden.
+
 ## Wat wordt er gevraagd van de gemeente?
 
-De gemeente *mag* actief deelnemen in het onderzoek, maar alleen als daar behoeft aan is. Aangezien de data bij een externe dienstverlener staat, heeft Universiteit Maastricht alleen toestemming nodig om de data beschikbaar bij de externe dienstverlener te analyseren. Er wordt **niet** gevraagd om extra data te verzamelen door de gemeente. Het onderzoek wordt uitgevoerd met de informatie die regulier wordt verzameld in het werkproces. Dit betekent dan ook dat er geen extra werkzaamheden nodig zijn vanuit de gemeente, met uitzondering van de toestemming (in de vorm van een verwerkersovereenkomst).
+Aangezien de data bij een externe dienstverlener staat, heeft Universiteit Maastricht alleen toestemming nodig om de data beschikbaar bij de externe dienstverlener te analyseren. Er wordt **niet** gevraagd om extra data te verzamelen door de gemeente. Het onderzoek wordt uitgevoerd met de informatie die regulier wordt verzameld in het werkproces. Dit betekent dan ook dat er geen extra werkzaamheden nodig zijn vanuit de gemeente, met uitzondering van de toestemming (in de vorm van een verwerkersovereenkomst).
 Aangezien dit project wordt gefinancierd door het Ministerie van Binnenlandse Zaken wordt er **geen financiële bijdrage gevraagd** van de deelenmende gemeenten.
+Dit betekent dan ook dat de gemeenten zonder extra kosten inzichten krijgen in de effectiviteit van de huidige vroegsignalering.
 
 ### Wetenschappelijke publicatie
-Resultaten van het onderzoek worden altijd met de gemeente gedeeld, waarbij de andere gemeenten niet bij naam worden genoemd. Bij wetenschappelijke publicatie zullen de deelnemende gemeenten niet bij naam worden genoemd. Mocht het interessant zijn voor de gemeente kan iemand als co-auteur op deze wetenschappelijke publicatie meegenomen worden.
+Resultaten van het onderzoek worden altijd met de gemeente gedeeld, waarbij de andere gemeenten niet bij naam worden genoemd.
+
+Bij wetenschappelijke publicatie zullen de deelnemende gemeenten niet bij naam worden genoemd. Mocht het interessant zijn voor de gemeente kan iemand als co-auteur op deze wetenschappelijke publicatie meegenomen worden.
 
 ## Wat is Federated Learning?
 
@@ -44,6 +51,8 @@ In onderstaand figuur is uitgelegd hoe de relatie tussen de dienstverlener (XXLL
 <img src="overeenkomsten_overzicht.png" width="100%"/>
 
 Op basis van dit figuur is dan ook een verwerkersovereenkomst nodig tussen de deelnemende gemeente en Universiteit Maastricht. Deze overeenkomst waarborgt dat de verwerking van persoonsgegevens in overeenstemming is met de Algemene Verordening Gegevensbescherming (AVG) en legt de afspraken vast tussen de verwerkingsverantwoordelijke (gemeente) en de verwerker (UM).
+
+Mocht een gemeente ervoor kiezen om de verwerkersovereenkomst met XXLLNC aan te vullen voor dit project (met een addendum specifiek voor dit project), dan is dit te bespreken.
 
 ## Hoe deel te nemen?
 
